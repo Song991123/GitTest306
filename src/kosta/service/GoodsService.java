@@ -7,4 +7,7 @@ public class GoodsService {
 	public void select() {
 		System.out.println("dsfsdf");
 	}
+	public void delete() {
+		System.out.println("원격에서 수정");
+	}
 }
