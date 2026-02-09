@@ -7,4 +7,7 @@ public class GoodsService {
 	public void select() {
 		System.out.println("dsfsdf");
 	}
+	public void update() {
+		System.out.println("로컬에서 수정");
+	}
 }
