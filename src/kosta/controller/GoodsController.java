@@ -8,6 +8,6 @@ public class GoodsController {
 		System.out.println("로컬에서 수정 중");
 	}
 	public void selectAll(){
-	
+		System.out.println("곧 집에감");
 	}
 }
