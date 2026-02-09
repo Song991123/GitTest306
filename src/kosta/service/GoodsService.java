@@ -16,4 +16,7 @@ public class GoodsService {
 		System.out.println("원격에서 수정");
 
 	}
+	public void test() {
+		System.out.println("강의장에서 수정");
+	}
 }
